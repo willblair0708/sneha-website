@@ -75,10 +75,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="/files/resume.pdf"  // Update this with the actual path to your resume.pdf file
+      href="https://www.linkedin.com/in/elliechen1/"  // Update this with the actual path to your resume.pdf file
       rel="noopener noreferrer" // I've also updated "noreferrer" to "noopener noreferrer" for security reasons
       download>
-      Check out my resume!
+      Connect on LinkedIn!
     </a>
   );
 
