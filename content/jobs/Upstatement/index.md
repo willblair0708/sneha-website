@@ -1,13 +1,14 @@
 ---
 date: '2018-05-14'
-title: 'Lead Engineer'
-company: 'Upstatement'
-location: 'Boston, MA'
-range: 'May 2018 - Present'
-url: 'https://www.upstatement.com/'
+title: 'Server'
+company: 'Kajiken'
+location: 'Baltimore, MD'
+range: 'August 2022 - January 2023'
+url: 'ttps://www.kajikenusa.com/'
 ---
 
-- Deliver high-quality, robust production code for a diverse array of projects for clients including Harvard Business School, Everytown for Gun Safety, Pratt Institute, Koala Health, Vanderbilt University, The 19th News, and more
-- Work alongside creative directors to lead the research, development, and architecture of technical solutions to fulfill business requirements
-- Collaborate with designers, project managers, and other engineers to transform creative concepts into production realities for clients and stakeholders
-- Provide leadership within engineering department through close collaboration, knowledge shares, and mentorship
+- Delivering high-quality customer service, ensuring the satisfaction of a diverse clientele that frequented the establishment.
+- Collaborating closely with the kitchen and management teams to ensure orders were accurately prepared and delivered promptly to guests.
+- Working alongside the restaurant's leadership to understand and fulfill special requests or dietary restrictions of patrons.
+- Assisting in training new staff members, sharing her knowledge and best practices to ensure the restaurant maintained its reputation for excellent service.
+- Playing a pivotal role in handling peak business hours, managing multiple tasks efficiently and maintaining a calm and pleasant demeanor.

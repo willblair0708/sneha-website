@@ -1,12 +1,11 @@
 ---
 date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+title: 'Software Engineer Intern'
+company: 'University of California - Santa Cruz'
+location: 'Santa Cruz, CA'
+range: 'June 2019 - August 2019'
+url: 'https://www.ucsc.edu/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- I developed computer simulations designed to create road networks, vital for testing autonomous vehicles.
+- I worked on analyzing and determining the most efficient algorithms to optimize vehicle movement within these simulations.
