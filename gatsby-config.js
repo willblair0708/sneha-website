@@ -5,9 +5,6 @@ module.exports = {
     title: 'Ellie Chen',
     description:
       'Ellie Chen is a student at Johns Hopkins University studying Economics, with a focus on marketing',
-    siteUrl: 'https://brittanychiang.com', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@bchiang7',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
