@@ -75,9 +75,10 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
+      href="../../static/EllieChenResume.pdf" // Update this with the actual path to your resume.pdf file
       target="_blank"
-      rel="noreferrer">
+      rel="noopener noreferrer" // I've also updated "noreferrer" to "noopener noreferrer" for security reasons
+      download>
       Check out my resume!
     </a>
   );
