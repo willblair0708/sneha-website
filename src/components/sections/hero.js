@@ -75,7 +75,7 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="../../static/EllieChenResume.pdf" // Update this with the actual path to your resume.pdf file
+      href="files/EllieChenResume.pdf" // Update this with the actual path to your resume.pdf file
       target="_blank"
       rel="noopener noreferrer" // I've also updated "noreferrer" to "noopener noreferrer" for security reasons
       download>
