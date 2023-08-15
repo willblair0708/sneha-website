@@ -75,13 +75,13 @@ const Hero = () => {
   const five = (
     <a
       className="email-link"
-      href="https://www.linkedin.com/in/elliechen1/"  // Update this with the actual path to your resume.pdf file
-      rel="noopener noreferrer" // I've also updated "noreferrer" to "noopener noreferrer" for security reasons
+      href="https://www.linkedin.com/in/elliechen1/"
+      rel="noopener noreferrer"
+      target="_blank" // This will open the link in a new tab/window
       download>
       Connect on LinkedIn!
     </a>
   );
-
   const items = [one, two, three, four, five];
 
   return (

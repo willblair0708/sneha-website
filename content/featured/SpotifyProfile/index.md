@@ -1,15 +1,15 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Lead Free Baltimore'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+external: 'https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kpate111_jh_edu/ER78m48Ig4FBl-KV6ZDk_bwBGo8JhjL7QPSuerYqUCrp7w?rtime=MinPgyyd20g'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Organization
+  - Volunteer Outreach
+  - Budget
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+To ensure the critical wellbeing of
+Baltimore’s youth, Lead Free Baltimore will
+fight to eradicate lead paint from 240 homes
+in East Baltimore over 5 years.

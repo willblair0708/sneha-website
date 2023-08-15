@@ -1,15 +1,12 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'National Alliance on Mental Illness'
+cover: './mentalhealth.png'
+external: 'https://docs.google.com/presentation/d/15JeDU_m9cIRlvE11OnUwY9xqiSCTFCOnvp0ORbigYdA/edit#slide=id.g124b677c3f8_0_221'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Consulting
+  - Advocacy
+  - Business Analysis
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Consulting [National Alliance on Mental Illness](https://www.nami.org/Home) to improve volunteer services, including the helpline, peer support/family support group and other educational resources
