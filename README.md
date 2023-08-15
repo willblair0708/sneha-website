@@ -56,7 +56,7 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 4. Start the development server
 
    ```sh
-   npm start
+   yarn run develop
    ```
 
 ## 🚀 Building and Running for Production
