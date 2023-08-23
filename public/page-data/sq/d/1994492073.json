@@ -1,1 +1,13 @@
-{"data":{"site":{"siteMetadata":{"defaultTitle":"Ellie Chen","defaultDescription":"Ellie Chen is a student at Johns Hopkins University studying Economics, with a focus on marketing","siteUrl":"https://elliechen.vercel.app","defaultImage":"/og.png","twitterUsername":"@bchiang7"}}}}
+{
+  "data": {
+    "site": {
+      "siteMetadata": {
+        "defaultTitle": "Ellie Chen",
+        "defaultDescription": "Ellie Chen is a student at Johns Hopkins University studying Economics, with a focus on marketing",
+        "siteUrl": "https://elliechen.vercel.app",
+        "defaultImage": "/og.png",
+        "twitterUsername": ""
+      }
+    }
+  }
+}
