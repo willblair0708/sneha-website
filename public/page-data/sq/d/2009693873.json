@@ -5,49 +5,61 @@
         {
           "node": {
             "frontmatter": {
-              "title": "Treasurer",
-              "company": "Notes of Ranvier",
+              "title": "Design Team Leader",
+              "company": "Whiting School of Engineering",
               "location": "Baltimore, MD",
-              "range": "August 2020 - Present",
-              "url": "https://www.facebook.com/jhunotesofranvier/"
+              "range": "January 2023 - Present",
+              "url": "https://engineering.jhu.edu/"
             },
-            "html": "<ul>\n<li>Treasurer (Jun 2022 - May 2023): I managed the group's finances, diligently applying for funding and orchestrating fundraisers to support our activities.</li>\n<li>Public Relations Chair (Aug 2020 - May 2022): I spearheaded our social media marketing campaigns, which were instrumental in recruiting new members and promoting our concerts.</li>\n</ul>"
+            "html": "<ul>\n<li>Leading a 5-member team to conduct in-depth research, encompassing clinical observations and literature searches, on bicep tendon repair instruments.</li>\n<li>Exploring potential innovations in bicep tendon repair instruments.</li>\n<li>Demonstrating strong project management skills through collaboration with the BME department and clinician mentors.</li>\n</ul>"
           }
         },
         {
           "node": {
             "frontmatter": {
-              "title": "Server",
-              "company": "Kajiken",
+              "title": "Undergraduate Student Researcher",
+              "company": "Weihs Research Group",
               "location": "Baltimore, MD",
-              "range": "August 2022 - January 2023",
-              "url": "ttps://www.kajikenusa.com/"
+              "range": "August 2022 - Present",
+              "url": "https://weihsgroup.jhu.edu/"
             },
-            "html": "<ul>\n<li>Delivering high-quality customer service, ensuring the satisfaction of a diverse clientele that frequented the establishment.</li>\n<li>Collaborating closely with the kitchen and management teams to ensure orders were accurately prepared and delivered promptly to guests.</li>\n<li>Working alongside the restaurant's leadership to understand and fulfill special requests or dietary restrictions of patrons.</li>\n<li>Assisting in training new staff members, sharing her knowledge and best practices to ensure the restaurant maintained its reputation for excellent service.</li>\n<li>Playing a pivotal role in handling peak business hours, managing multiple tasks efficiently and maintaining a calm and pleasant demeanor.</li>\n</ul>"
+            "html": "<ul>\n<li>Actively conducting experiments and corrosion testing on magnesium alloys to replicate human body conditions.</li>\n<li>Focusing on assessing corrosion rates and tensile strength to evaluate the alloys' potential for orthopedic applications such as wire fabrication into stents and sternal closure cables.</li>\n<li>Possessing key skills in Corrosion, Tensile Testing, Computer-Aided Design (CAD), and 3D Printing.</li>\n</ul>"
           }
         },
         {
           "node": {
             "frontmatter": {
-              "title": "Marketing Associate",
-              "company": "Forever 21",
+              "title": "President",
+              "company": "MedTech Network",
+              "location": "Baltimore, MD",
+              "range": "September 2021 - Present",
+              "url": "https://jhu.campusgroups.com/hmd/home/"
+            },
+            "html": "<ul>\n<li>Leading a 25-member student team to plan and execute a medtech career exploration program, which includes workshops, speaker sessions, and entrepreneurship events.</li>\n<li>Coordinating committees and facilitating networking sessions to enhance participant engagement and learning.</li>\n<li>Collaborating closely with faculty mentors to refine event concepts and leverage their expertise for maximizing the impact of activities.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Supply Chain Buyer Intern",
+              "company": "Minaris Regenerative Medicine",
+              "location": "Mountain View, CA",
+              "range": "June 2022 - August 2022",
+              "url": "https://www.rm.minaris.com/en/"
+            },
+            "html": "<ul>\n<li>Streamlined purchasing activities and managed materials for clinical labs, process development, and engineering groups, utilizing tools like NetSuite and Microsoft Excel.</li>\n<li>Assisted in compliance investigations and addressed finance inquiries, while enhancing inventory tracking systems.</li>\n<li>Acquired deep insights into Quality Control processes and honed skills in Documentation and Manufacturing Practices within cell manufacturing.</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Bioinformatics Intern",
+              "company": "STEM-Away",
               "location": "Santa Clara, CA",
-              "range": "May 2021 - August 2021",
-              "url": "https://www.forever21.com/"
+              "range": "June 2022 - August 2022",
+              "url": "https://stemaway.com/"
             },
-            "html": "<ul>\n<li>Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community</li>\n<li>Built and delivered technical solutions according to stakeholder business requirements</li>\n</ul>"
-          }
-        },
-        {
-          "node": {
-            "frontmatter": {
-              "title": "Software Engineer Intern",
-              "company": "University of California - Santa Cruz",
-              "location": "Santa Cruz, CA",
-              "range": "June 2019 - August 2019",
-              "url": "https://www.ucsc.edu/"
-            },
-            "html": "<ul>\n<li>I developed computer simulations designed to create road networks, vital for testing autonomous vehicles.</li>\n<li>I worked on analyzing and determining the most efficient algorithms to optimize vehicle movement within these simulations.</li>\n</ul>"
+            "html": "<ul>\n<li>Collaborated with a 12-member team to develop sMAP, an R Shiny application, enabling students to conduct microarray analysis without coding expertise.</li>\n<li>Played a pivotal role in refining data importation and batch correction components of the transcriptomics pipeline.</li>\n<li>Co-presented the project to STEM-Away mentors, external speakers, and contributed to a comprehensive paper detailing sMAP's development and functionality.</li>\n</ul>"
           }
         }
       ]

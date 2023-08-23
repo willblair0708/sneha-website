@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['Marketing', 'Python', 'Excel', 'R', 'SQL', 'Econometrics'];
+  const skills = [
+    'Computer-Aided Design',
+    'Data Analysis',
+    'Excel',
+    'Python',
+    'RStudio',
+    'Cell Culture',
+    '3D Printing',
+    'Biomedical Engineering',
+    'NetSuite',
+    'Materials Science',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,29 +146,35 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Ellie, and I'm passionate about the intersection of economics and
-              real-world impact. My journey began at Johns Hopkins University, where I'm currently
-              pursuing a Bachelor's in Economics. Beyond academia, my involvement with Alpha Kappa
-              Psi has given me invaluable experiences in market analysis and fundraising,
-              particularly for meaningful causes like the National Alliance on Mental Illness. My
-              time at The Notes of Ranvier A Cappella not only nurtured my creative side but also
-              honed my organizational skills as I spearheaded social media marketing campaigns and
-              managed group finances. Volleyball, singing, and service - through roles at
-              organizations like the Interact: Rotary Sponsored Club - have also played a pivotal
-              role in shaping who I am today. Each experience has taught me more about teamwork,
-              leadership, and the importance of community.
+              Hello! My name is Sneha, and I'm fervently driven by the fusion of biomedical
+              engineering and transformative healthcare solutions. My academic voyage is anchored at
+              Johns Hopkins University, where I'm vigorously exploring the intricacies of biomedical
+              devices and biodegradable implants for orthopedics. Outside the classroom, my
+              leadership stint with the MedTech Network has enriched me with hands-on experience in
+              coordinating medtech career exploration programs. Simultaneously, my involvement in
+              Alpha Kappa Psi and the Shakti Competitive Indian Classical Dance Team not only
+              resonates with my cultural and philanthropic inclinations but also amplifies my skills
+              in team collaboration and event management. The domains of research, dance, and
+              community service, through roles at prestigious institutions like Kaiser Permanente,
+              collectively sculpt my persona. Each endeavor enlightens me about the essence of
+              innovation, leadership, and societal contribution.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at
-              <a href="https://www.jhu.edu/">Johns Hopkins University</a> in a student-led group, a{' '}
-              <a href="https://www.kajiken.com/">restaurant</a>, a{' '}
-              <a href="https://forever21.com/">global retail corporation</a>, and{' '}
-              <a href="https://www.ucsc.edu/">an academic internship program</a>. My main focus
-              these days is studying Economics at Johns Hopkins University while building on her
-              diverse experiences in marketing, finance, and software development. I especially
-              enjoy my roles in <a href="https://akpsi.org/">Alpha Kappa Psi</a> and The Notes of
-              Ranvier A Cappella group.
+              Fast-forward to today, and I've had the privilege of leading design initiatives at{' '}
+              <a href="https://engineering.jhu.edu/">Johns Hopkins Whiting School of Engineering</a>
+              , conducting research with the{' '}
+              <a href="https://www.hopkinsmedicine.org/">Weihs Research Group</a>, and undertaking
+              internships at esteemed organizations like
+              <a href="https://www.minaris-regenerativemedicine.com/">
+                Minaris Regenerative Medicine
+              </a>{' '}
+              and <a href="https://www.stemaway.com/">STEM-Away</a>. My primary concentration is
+              Biomedical Engineering at Johns Hopkins University, complemented by my diverse
+              experiences in corrosion research, computer-aided design, and bioinformatics. I take
+              immense pride in my roles within <a href="https://akpsi.org/">Alpha Kappa Psi</a> and
+              the Shakti Competitive Indian Classical Dance Team, which have been instrumental in
+              shaping my leadership and teamwork abilities at the university.
             </p>
           </div>
 
