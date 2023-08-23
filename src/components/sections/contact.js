@@ -60,7 +60,7 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        Always happy to chat! I am especially interested in working at the intersections of medical
+        Always happy to chat! I am especially interested in working at the intersection of medical
         devices, materials engineering and computational medicine. My eyes are set on the R&D
         sector, where I plan to reshape healthcare through innovative medical technology.
       </p>
