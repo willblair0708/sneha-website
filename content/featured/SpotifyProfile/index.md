@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Lead Free Baltimore'
+title: 'sMAP: Standard Microarray Analysis Pipeline App'
 cover: './demo.png'
-external: 'https://livejohnshopkins-my.sharepoint.com/:p:/g/personal/kpate111_jh_edu/ER78m48Ig4FBl-KV6ZDk_bwBGo8JhjL7QPSuerYqUCrp7w?rtime=MinPgyyd20g'
+external: 'https://www.biorxiv.org/content/10.1101/2022.05.27.492984v1'
 tech:
-  - Organization
-  - Volunteer Outreach
-  - Budget
+  - R Shiny
+  - Microarray Analysis
+  - Data Importation
+  - Statistics
+  - Technical Writing & Presentation
 ---
 
-To ensure the critical wellbeing of
-Baltimore’s youth, Lead Free Baltimore will
-fight to eradicate lead paint from 240 homes
-in East Baltimore over 5 years.
+Collaborated with a 12-member team on [sMAP](https://bi-stem-away.github.io/sMAP/), an R Shiny tool for student-friendly microarray analysis. Contributed to data handling and presented findings, co-authoring a detailed paper on the application's development and functionality.

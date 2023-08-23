@@ -1,12 +1,13 @@
 ---
 date: '1'
-title: 'National Alliance on Mental Illness'
-cover: './mentalhealth.png'
-external: 'https://docs.google.com/presentation/d/15JeDU_m9cIRlvE11OnUwY9xqiSCTFCOnvp0ORbigYdA/edit#slide=id.g124b677c3f8_0_221'
+title: 'Weihs Research Group'
+cover: './demo.png'
+external: 'https://www.linkedin.com/in/snehamraj/overlay/1635532375778/single-media-viewer/?profileId=ACoAAC1ILO4B5Eqn5tQk1VpBjJMfyDUuF8v7auM'
 tech:
-  - Consulting
-  - Advocacy
-  - Business Analysis
+  - Research & Development
+  - Corrosion Testing
+  - Tensile Strength Assessment
+  - CAD & 3D Printing
 ---
 
-Consulting [National Alliance on Mental Illness](https://www.nami.org/Home) to improve volunteer services, including the helpline, peer support/family support group and other educational resources
+Research & Development at [Weihs Research Group](https://weihsgroup.jhu.edu/): Conducting experiments on magnesium alloys for orthopedic uses, including stent fabrication and sternal closures, by assessing corrosion rates and tensile strength.
