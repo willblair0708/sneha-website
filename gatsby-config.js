@@ -2,9 +2,9 @@ const config = require('./src/config');
 
 module.exports = {
   siteMetadata: {
-    title: 'Ellie Chen',
+    title: 'Sneha Raj',
     description:
-      'Ellie Chen is a student at Johns Hopkins University studying Economics, with a focus on marketing',
+      'Sneha Raj is a student at Johns Hopkins University studying Biomedical Engineering, with a minor in Computational Medicine',
     siteUrl: 'https://elliechen.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
