@@ -1,10 +1,10 @@
 module.exports = {
-  email: 'echen57@jhu.edu',
+  email: 'sraj3@jhu.edu',
 
   socialMedia: [
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/elliechen1/',
+      url: 'https://www.linkedin.com/in/snehamraj/',
     },
   ],
 

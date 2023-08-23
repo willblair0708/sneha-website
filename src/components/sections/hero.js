@@ -60,22 +60,27 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Ellie Chen.</h2>;
-  const three = <h3 className="big-heading">Student at Johns Hopkins University</h3>;
+  const two = <h2 className="big-heading">Sneha Raj.</h2>;
+  const three = <h3 className="big-heading">Biomedical Engineering at Johns Hopkins University</h3>;
   const four = (
     <>
       <p>
-        I'm an Economics student at Johns Hopkins University with a passion for combining analytical
-        skills with real-world impact. Currently, I’m passionate about market analysis and community
-        outreach, having played pivotal roles in organizations like Alpha Kappa Psi and Interact:
-        Rotary Sponsored Club.
+        I'm a Biomedical Engineering student at Johns Hopkins University, passionate about designing
+        medical devices and researching biodegradable implants for orthopedics. Currently, I lead a
+        design team at the Whiting School of Engineering and am an active researcher with the Weihs
+        Research Group, delving into magnesium alloys for orthopedic applications. I also serve as
+        the President of the MedTech Network, coordinating medtech career programs. My past
+        internships include roles at Minaris Regenerative Medicine and STEM-Away, enriching my
+        expertise in Quality Control and bioinformatics. Beyond academics, I'm committed to
+        community service, volunteering at institutions like Kaiser Permanente. I'm driven to
+        innovate in healthcare and welcome collaboration on this journey.
       </p>
     </>
   );
   const five = (
     <a
       className="email-link"
-      href="https://www.linkedin.com/in/elliechen1/"
+      href="https://www.linkedin.com/in/snehamraj/"
       rel="noopener noreferrer"
       target="_blank" // This will open the link in a new tab/window
       download>
