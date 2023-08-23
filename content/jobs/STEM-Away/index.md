@@ -3,7 +3,7 @@ date: '2014-12-21'
 title: 'Bioinformatics Intern'
 company: 'STEM-Away'
 location: 'Santa Clara, CA'
-range: 'June 2022 - August 2022'
+range: 'June 2021 - May 2022'
 url: 'https://stemaway.com/'
 ---
 
