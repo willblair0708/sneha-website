@@ -8,7 +8,7 @@ const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
   flex-direction: column;
   align-items: flex-start;
-  min-height: 100vh;
+  min-height: 110vh; // Change height of "My Name is"
   height: 100vh;
   padding: 0;
 
@@ -65,15 +65,12 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I'm a Biomedical Engineering student at Johns Hopkins University, passionate about designing
-        medical devices and researching biodegradable implants for orthopedics. Currently, I lead a
-        design team at the Whiting School of Engineering and am an active researcher with the Weihs
-        Research Group, delving into magnesium alloys for orthopedic applications. I also serve as
-        the President of the MedTech Network, coordinating medtech career programs. My past
-        internships include roles at Minaris Regenerative Medicine and STEM-Away, enriching my
-        expertise in Quality Control and bioinformatics. Beyond academics, I'm committed to
-        community service, volunteering at institutions like Kaiser Permanente. I'm driven to
-        innovate in healthcare and welcome collaboration on this journey.
+        I'm a Biomedical Engineering student at Johns Hopkins University, leading design initiatives
+        on medical devices and researching orthopedic implants. As a researcher with the Weihs
+        Group, I focus on magnesium alloys' potential in medicine. I also head the MedTech Network,
+        facilitating career programs. My internships at Minaris and STEM-Away honed my skills in
+        Quality Control and bioinformatics. Committed to community service, I've volunteered at
+        institutions like Kaiser Permanente. Driven by innovation, I aim to reshape healthcare.
       </p>
     </>
   );
