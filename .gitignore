@@ -6,6 +6,7 @@ package-lock.json
 
 # Build directory
 public/*
+public/render-page.js
 .DS_Store
 
 .vscode/
