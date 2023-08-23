@@ -5,7 +5,7 @@ module.exports = {
     title: 'Sneha Raj',
     description:
       'Sneha Raj is a student at Johns Hopkins University studying Biomedical Engineering, with a minor in Computational Medicine',
-    siteUrl: 'https://elliechen.vercel.app', // No trailing slash allowed!
+    siteUrl: 'https://sneharaj.vercel.app', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '',
   },
@@ -20,8 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'Ellie Chen',
-        short_name: 'Ellie Chen',
+        name: 'Sneha Raj',
+        short_name: 'Sneha Raj',
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
