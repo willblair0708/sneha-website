@@ -164,17 +164,15 @@ const About = () => {
               Fast-forward to today, and I've had the privilege of leading design initiatives at{' '}
               <a href="https://engineering.jhu.edu/">Johns Hopkins Whiting School of Engineering</a>
               , conducting research with the{' '}
-              <a href="https://www.hopkinsmedicine.org/">Weihs Research Group</a>, and undertaking
+              <a href="https://weihsgroup.jhu.edu/">Weihs Research Group</a>, and undertaking
               internships at esteemed organizations like
-              <a href="https://www.minaris-regenerativemedicine.com/">
-                Minaris Regenerative Medicine
-              </a>{' '}
-              and <a href="https://www.stemaway.com/">STEM-Away</a>. My primary concentration is
-              Biomedical Engineering at Johns Hopkins University, complemented by my diverse
-              experiences in corrosion research, computer-aided design, and bioinformatics. I take
-              immense pride in my roles within <a href="https://akpsi.org/">Alpha Kappa Psi</a> and
-              the Shakti Competitive Indian Classical Dance Team, which have been instrumental in
-              shaping my leadership and teamwork abilities at the university.
+              <a href="https://www.rm.minaris.com/en/">Minaris Regenerative Medicine</a> and{' '}
+              <a href="https://stemaway.com/">STEM-Away</a>. My primary concentration is Biomedical
+              Engineering at Johns Hopkins University, complemented by my diverse experiences in
+              corrosion research, computer-aided design, and bioinformatics. I take immense pride in
+              my roles within <a href="https://akpsi.org/">Alpha Kappa Psi</a> and the Shakti
+              Competitive Indian Classical Dance Team, which have been instrumental in shaping my
+              leadership and teamwork abilities at the university.
             </p>
           </div>
 
