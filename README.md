@@ -35,6 +35,13 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [br
 
 ## 🛠 Installation & Set Up
 
+```sh
+git update-index --assume-unchanged public/render-page.js
+
+git update-index --assume-unchanged public/render-page.js.map
+```
+
+
 1. Install the Gatsby CLI
 
    ```sh
