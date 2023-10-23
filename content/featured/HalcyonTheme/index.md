@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'DiscovEAR'
+title: 'DiscovEAR: Eustachian Tube Diagnostic System'
 cover: './demo.png'
 external: '[https://www.bme.jhu.edu/wp-content/uploads/2023/01/DT22_EN580.X12-SPRING-One-Pager-DT18-Final.pdf]'
 tech:
