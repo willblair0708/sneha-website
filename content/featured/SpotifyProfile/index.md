@@ -1,14 +1,12 @@
 ---
 date: '2'
-title: 'sMAP: Standard Microarray Analysis Pipeline App'
+title: 'Magnesium Alloys as Biodegradable Implants'
 cover: './demo.png'
-external: 'https://www.biorxiv.org/content/10.1101/2022.05.27.492984v1'
+external: 'https://weihsgroup.jhu.edu/'
 tech:
-  - R Shiny
-  - Microarray Analysis
-  - Data Importation
-  - Statistics
-  - Technical Writing & Presentation
+  - Micro CT
+  - Mechanical Testing
+  - Tensile
 ---
 
-Collaborated with a 12-member team on [sMAP](https://bi-stem-away.github.io/sMAP/), an R Shiny tool for student-friendly microarray analysis. Contributed to data handling and presented findings, co-authoring a detailed paper on the application's development and functionality.
+I am actively engaged in conducting experiments and corrosion testing on [magnesium alloys], replicating conditions similar to the human body. The primary goal is to assess corrosion rates and tensile strength, with a specific focus on evaluating their potential for orthopedic applications, including the fabrication of wires into stents and their incorporation into cables for sternal closures.
