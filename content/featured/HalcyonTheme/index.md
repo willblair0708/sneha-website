@@ -1,13 +1,11 @@
 ---
 date: '1'
-title: 'Weihs Research Group'
+title: 'DiscovEAR'
 cover: './demo.png'
-external: 'https://www.linkedin.com/in/snehamraj/overlay/1635532375778/single-media-viewer/?profileId=ACoAAC1ILO4B5Eqn5tQk1VpBjJMfyDUuF8v7auM'
+external: '[https://www.linkedin.com/in/snehamraj/overlay/1635532375778/single-media-viewer/?profileId=ACoAAC1ILO4B5Eqn5tQk1VpBjJMfyDUuF8v7auM](https://www.bme.jhu.edu/wp-content/uploads/2023/01/DT22_EN580.X12-SPRING-One-Pager-DT18-Final.pdf)'
 tech:
-  - Research & Development
-  - Corrosion Testing
-  - Tensile Strength Assessment
   - CAD & 3D Printing
+  - Rapid Prototyping
 ---
 
-Research & Development at [Weihs Research Group](https://weihsgroup.jhu.edu/): Conducting experiments on magnesium alloys for orthopedic uses, including stent fabrication and sternal closures, by assessing corrosion rates and tensile strength.
+Prototyping and business development at [DiscovEAR](https://weihsgroup.jhu.edu/): An innovative endoscopic system aimed at diagnosing eustachian tube dysfunction.
