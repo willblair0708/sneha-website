@@ -2,8 +2,8 @@
 date: '1'
 title: 'Tenopedics: Improving the efficiency of arthroscopic biceps tenodesis surgery'
 cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+external: ''
+cta: ''
 tech:
   - Needs Validation
   - Clinical Observations
