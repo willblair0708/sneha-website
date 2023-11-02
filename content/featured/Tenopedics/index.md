@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Tenopedics: Improving the efficiency of arthroscopic biceps tenodesis surgery'
+title: '[Tenopedics: Improving the efficiency of arthroscopic biceps tenodesis surgery](/tenopedics)'
 cover: './course-card.png'
 external: ''
 cta: ''
@@ -11,5 +11,5 @@ tech:
   - UX Design
 ---
 
-Our team sees an opportunity to revolutionize ABT by developing a [compact and efficient system tailored to the arthroscopic biceps space](/tenopedics). This innovation has the potential to impact both clinicians and patients significantly.
+Our team sees an opportunity to revolutionize ABT by developing a compact and efficient system tailored to the arthroscopic biceps space. This innovation has the potential to impact both clinicians and patients significantly.
 
