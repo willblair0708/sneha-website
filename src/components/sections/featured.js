@@ -124,6 +124,8 @@ const StyledProject = styled.li`
   }
 
   .project-title {
+    position: relative;
+    z-index: 9999;
     color: var(--lightest-slate);
     font-size: clamp(24px, 5vw, 28px);
 
