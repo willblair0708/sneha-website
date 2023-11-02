@@ -27,7 +27,7 @@ const StyledHomeButton = styled(Link)`
   margin-top: 40px;
 `;
 
-const NotFoundPage = ({ location }) => {
+const TenopedicsPage = ({ location }) => {
   const [isMounted, setIsMounted] = useState(false);
   const prefersReducedMotion = usePrefersReducedMotion();
 
@@ -42,15 +42,19 @@ const NotFoundPage = ({ location }) => {
 
   const content = (
     <StyledMainContainer className="fillHeight">
-      <StyledTitle>404</StyledTitle>
-      <StyledSubtitle>Page Not Found</StyledSubtitle>
+      <StyledTitle>Tenopedics Project</StyledTitle>
+      <StyledSubtitle>
+        <strong>Background:</strong><br />
+        Arthroscopic Biceps Tenodesis (ABT) holds great promise for patients suffering from biceps tendonitis, offering faster recovery and less post-operative pain. However, it's astonishingly underutilized due to the challenges associated with the existing surgical tools.
+        Our team sees an opportunity to revolutionize ABT by developing a compact and efficient system tailored to the arthroscopic biceps space. This innovation has the potential to impact both clinicians and patients significantly.
+      </StyledSubtitle>
       <StyledHomeButton to="/">Go Home</StyledHomeButton>
     </StyledMainContainer>
   );
 
   return (
     <Layout location={location}>
-      <Helmet title="Page Not Found" />
+      <Helmet title="Tenopedics Project" />
 
       {prefersReducedMotion ? (
         <>{content}</>
@@ -67,8 +71,8 @@ const NotFoundPage = ({ location }) => {
   );
 };
 
-NotFoundPage.propTypes = {
+TenopedicsPage.propTypes = {
   location: PropTypes.object.isRequired,
 };
 
-export default NotFoundPage;
+export default TenopedicsPage;
