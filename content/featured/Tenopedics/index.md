@@ -11,5 +11,5 @@ tech:
   - UX Design
 ---
 
-Our team sees an opportunity to revolutionize ABT by developing a [compact and efficient system tailored to the arthroscopic biceps space](/path-to-tenopedics-page). This innovation has the potential to impact both clinicians and patients significantly.
+Our team sees an opportunity to revolutionize ABT by developing a [compact and efficient system tailored to the arthroscopic biceps space](/tenopedics). This innovation has the potential to impact both clinicians and patients significantly.
 
