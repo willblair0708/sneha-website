@@ -11,4 +11,4 @@ tech:
   - UX Design
 ---
 
-Tenopedics aims to transform the landscape of arthroscopic biceps tenodesis by developing dedicated tools that streamline the procedure, enhance patient outcomes, and encourage wider clinician adoption of this minimally invasive technique. 
+Tenopedics aims to transform the landscape of arthroscopic biceps tenodesis by developing dedicated tools that streamline the procedure, enhance patient outcomes, and encourage wider clinician adoption of this minimally invasive technique.

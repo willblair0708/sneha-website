@@ -22,6 +22,7 @@
           { "path": "/404/" },
           { "path": "/archive/" },
           { "path": "/" },
+          { "path": "/newpage/" },
           { "path": "/pensieve/" },
           { "path": "/pensieve/tags/" }
         ]
