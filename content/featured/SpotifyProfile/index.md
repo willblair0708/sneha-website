@@ -2,7 +2,7 @@
 date: '2'
 title: 'Magnesium Alloys as Biodegradable Implants'
 cover: './demo.png'
-external: 'https://weihsgroup.jhu.edu/'
+external: ''
 tech:
   - Micro CT
   - Mechanical Testing
