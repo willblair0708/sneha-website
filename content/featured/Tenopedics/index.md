@@ -1,8 +1,8 @@
 ---
 date: '1'
-title: '[Tenopedics: Improving the efficiency of arthroscopic biceps tenodesis surgery](/tenopedics)'
+title: 'Tenopedics: Improving the efficiency of arthroscopic biceps tenodesis surgery'
 cover: './course-card.png'
-external: ''
+external: '/tenopedics'
 cta: ''
 tech:
   - Needs Validation
