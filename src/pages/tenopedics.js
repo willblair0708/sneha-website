@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { Link } from 'gatsby';
 import { Helmet } from 'react-helmet';
 import PropTypes from 'prop-types';
@@ -6,6 +6,7 @@ import styled from 'styled-components';
 import { navDelay } from '@utils';
 import { Layout } from '@components';
 import { usePrefersReducedMotion } from '@hooks';
+import { StaticImage } from 'gatsby-plugin-image';
 
 // Styled Components
 const StyledMainContainer = styled.main`
@@ -21,6 +22,9 @@ const StyledMainContainer = styled.main`
   animation-delay: ${({ animationDelay }) => animationDelay || '0.5s'};
   transition: all 0.3s ease-in-out;
   will-change: transform, opacity;
+  background: var(--navy);
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px -5px rgba(2, 12, 27, 0.7);
 
   @keyframes fadeInUp {
     0% {
@@ -40,6 +44,7 @@ const StyledTitle = styled.h1`
   margin-bottom: 2rem;
   text-align: center;
   font-weight: bold;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 `;
 
 const StyledSubtitle = styled.h2`
@@ -47,6 +52,7 @@ const StyledSubtitle = styled.h2`
   font-size: 2.5rem;
   margin-bottom: 1rem;
   font-weight: 300;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
 `;
 
 const StyledParagraph = styled.p`
@@ -55,6 +61,7 @@ const StyledParagraph = styled.p`
   line-height: 1.7;
   margin-bottom: 1.5rem;
   text-align: justify;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1);
 `;
 
 const StyledButton = styled(Link)`
@@ -67,6 +74,7 @@ const StyledSectionTitle = styled.h3`
   color: var(--slate);
   font-size: 1.5rem;
   margin-bottom: 1rem;
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
 `;
 
 const StyledList = styled.ul`
@@ -75,6 +83,10 @@ const StyledList = styled.ul`
   line-height: 1.5;
   list-style-position: inside;
   margin-bottom: 2rem;
+  padding: 1rem;
+  background: var(--light-navy);
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px -5px rgba(2, 12, 27, 0.2);
 `;
 
 const StyledListItem = styled.li`
@@ -86,7 +98,6 @@ const StyledTeamContainer = styled.div`
 `;
 
 const TenopedicsPage = ({ location }) => {
-  const [isMounted, setIsMounted] = useState(false);
   const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
@@ -94,7 +105,7 @@ const TenopedicsPage = ({ location }) => {
       return;
     }
 
-    const timeout = setTimeout(() => setIsMounted(true), navDelay);
+    const timeout = setTimeout(() => navDelay);
     return () => clearTimeout(timeout);
   }, [prefersReducedMotion]);
 
@@ -102,12 +113,21 @@ const TenopedicsPage = ({ location }) => {
     <Layout location={location}>
       <Helmet title="Tenopedics Project" />
       <StyledMainContainer
-        style={{ 
+        style={{
           animationDelay: prefersReducedMotion ? '0s' : '0.5s',
-          opacity: prefersReducedMotion ? 1 : 0
-        }}
-      >
-        <StyledTitle>Tenopedics Project</StyledTitle>
+          opacity: prefersReducedMotion ? 1 : 0,
+        }}>
+        <StyledTitle>
+          Tenopedics: Improving the efficiency of arthroscopic biceps tenodesis surgery
+        </StyledTitle>
+        <StaticImage
+          src="../images/bicepstendon.png"
+          alt="Biceps Tendon Surgery"
+          placeholder="blurred"
+          layout="fixed"
+          width={400}
+          height={200}
+        />
         <StyledSubtitle>Background</StyledSubtitle>
         <StyledParagraph>
           Arthroscopic Biceps Tenodesis (ABT) holds great promise for patients suffering from biceps
@@ -117,26 +137,52 @@ const TenopedicsPage = ({ location }) => {
         </StyledParagraph>
         <StyledSectionTitle>Key user needs:</StyledSectionTitle>
         <StyledList>
-          <StyledListItem>Compatibility: Surgeons need tools that are designed specifically for the arthroscopic biceps space. Our solution provides instruments that fit this confined area, making the procedure smoother.</StyledListItem>
-          <StyledListItem>Reduced Procedural Time: Streamlining the procedure with efficient tools can significantly decrease surgical time, leading to reduced swelling, lower costs, and increased operative capacity.</StyledListItem>
-          <StyledListItem>Mitigated Fixation-Strength Related Failure: Our solution minimizes the risk of fixation-strength related failures, ensuring better patient outcomes.</StyledListItem>
+          <StyledListItem>
+            Compatibility: Surgeons need tools that are designed specifically for the arthroscopic
+            biceps space. Our solution provides instruments that fit this confined area, making the
+            procedure smoother.
+          </StyledListItem>
+          <StyledListItem>
+            Reduced Procedural Time: Streamlining the procedure with efficient tools can
+            significantly decrease surgical time, leading to reduced swelling, lower costs, and
+            increased operative capacity.
+          </StyledListItem>
+          <StyledListItem>
+            Mitigated Fixation-Strength Related Failure: Our solution minimizes the risk of
+            fixation-strength related failures, ensuring better patient outcomes.
+          </StyledListItem>
         </StyledList>
-        
+
         <StyledSectionTitle>Potential Impacts:</StyledSectionTitle>
         <StyledParagraph>
-          By addressing these user needs and bringing innovation to the ABT procedure, we anticipate several significant impacts:
+          By addressing these user needs and bringing innovation to the ABT procedure, we anticipate
+          several significant impacts:
         </StyledParagraph>
         <StyledList>
-          <StyledListItem>Enhanced Patient Outcomes: Shorter procedural times and improved fixation can lead to quicker patient recovery and better post-operative results.</StyledListItem>
-          <StyledListItem>Reduced Healthcare Costs: Efficiency can lower costs for hospitals and patients, making ABT more accessible and affordable.</StyledListItem>
-          <StyledListItem>Clinician Adoption: A dedicated solution that facilitates the clinician's work and increases efficiency can encourage broader acceptance of ABT.</StyledListItem>
-          <StyledListItem>Innovation in the Field: Our project may set a new standard for ABT procedures, inspiring further innovations in orthopedic surgery.</StyledListItem>
+          <StyledListItem>
+            Enhanced Patient Outcomes: Shorter procedural times and improved fixation can lead to
+            quicker patient recovery and better post-operative results.
+          </StyledListItem>
+          <StyledListItem>
+            Reduced Healthcare Costs: Efficiency can lower costs for hospitals and patients, making
+            ABT more accessible and affordable.
+          </StyledListItem>
+          <StyledListItem>
+            Clinician Adoption: A dedicated solution that facilitates the clinician's work and
+            increases efficiency can encourage broader acceptance of ABT.
+          </StyledListItem>
+          <StyledListItem>
+            Innovation in the Field: Our project may set a new standard for ABT procedures,
+            inspiring further innovations in orthopedic surgery.
+          </StyledListItem>
         </StyledList>
-        
+
         <StyledSectionTitle>Team:</StyledSectionTitle>
         <StyledTeamContainer>
           <StyledParagraph>
-            I work with a team of 5 students sponsored by Johns Hopkins Biomedical Engineering. Our project mentors are from the Johns Hopkins University Biomedical Engineering Department, Johns Hopkins Medical Institution, and University of Maryland Medical Institution.
+            I work with a team of 5 students sponsored by Johns Hopkins Biomedical Engineering. Our
+            project mentors are from the Johns Hopkins University Biomedical Engineering Department,
+            Johns Hopkins Medical Institution, and University of Maryland Medical Institution.
           </StyledParagraph>
         </StyledTeamContainer>
         <StyledButton to="/">Go Home</StyledButton>
