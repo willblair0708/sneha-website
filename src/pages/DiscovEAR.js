@@ -172,8 +172,8 @@ const TenopedicsPage = ({ location }) => {
   );
 };
 
-DiscovEARPage.propTypes = {
+TenopedicsPage.propTypes = {
   location: PropTypes.object.isRequired,
 };
 
-export default DiscovEARPage;
+export default TenopedicsPage;

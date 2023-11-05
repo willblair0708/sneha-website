@@ -17,14 +17,6 @@ const StyledMainContainer = styled.main`
   margin: 5rem auto;
   margin-top: 100px;
   opacity: 0;
-  transform: translateY(20px);
-  animation: fadeInUp 0.3s ease forwards;
-  animation-delay: ${({ animationDelay }) => animationDelay || '0.5s'};
-  transition: all 0.3s ease-in-out;
-  will-change: transform, opacity;
-  background: var(--navy);
-  border-radius: 10px;
-  box-shadow: 0px 10px 30px -5px rgba(2, 12, 27, 0.7);
 
   @keyframes fadeInUp {
     0% {
