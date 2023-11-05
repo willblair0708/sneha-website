@@ -2,7 +2,7 @@
 date: '3'
 title: 'Magnesium Alloys as Biodegradable Implants'
 cover: './demo.png'
-external: ''
+external: 'magnesium'
 tech:
   - Micro CT
   - Mechanical Testing

@@ -25,7 +25,9 @@
           { "path": "/" },
           { "path": "/tenopedics/" },
           { "path": "/pensieve/" },
-          { "path": "/pensieve/tags/" }
+          { "path": "/pensieve/tags/" },
+          { "path": "/discovear/" },
+          { "path": "/discovear copy/" }
         ]
       }
     },
