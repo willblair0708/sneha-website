@@ -23,6 +23,7 @@
           { "path": "/archive/" },
           { "path": "/" },
           { "path": "/tenopedics/" },
+          { "path": "/DiscovEAR/" },
           { "path": "/pensieve/" },
           { "path": "/pensieve/tags/" }
         ]
