@@ -6,7 +6,6 @@ import styled from 'styled-components';
 import { navDelay } from '@utils';
 import { Layout } from '@components';
 import { usePrefersReducedMotion } from '@hooks';
-import { StaticImage } from 'gatsby-plugin-image';
 
 // Styled Components
 const StyledMainContainer = styled.main`
@@ -112,14 +111,6 @@ const TenopedicsPage = ({ location }) => {
         <StyledTitle>
           Tenopedics: Improving the efficiency of arthroscopic biceps tenodesis surgery
         </StyledTitle>
-        <StaticImage
-          src="../images/bicepstendon.png"
-          alt="Biceps Tendon Surgery"
-          placeholder="blurred"
-          layout="fixed"
-          width={400}
-          height={200}
-        />
         <StyledSubtitle>Background</StyledSubtitle>
         <StyledParagraph>
           Arthroscopic Biceps Tenodesis (ABT) holds great promise for patients suffering from biceps
