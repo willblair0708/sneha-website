@@ -96,7 +96,7 @@ const StyledTeamContainer = styled.div`
   margin-top: 2rem;
 `;
 
-const TenopedicsPage = ({ location }) => {
+const DiscovearPage = ({ location }) => {
   const prefersReducedMotion = usePrefersReducedMotion();
 
   useEffect(() => {
@@ -172,8 +172,8 @@ const TenopedicsPage = ({ location }) => {
   );
 };
 
-TenopedicsPage.propTypes = {
+DiscovearPage.propTypes = {
   location: PropTypes.object.isRequired,
 };
 
-export default TenopedicsPage;
+export default DiscovearPage;
