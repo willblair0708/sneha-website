@@ -2,7 +2,7 @@
 date: '2'
 title: 'DiscovEAR: Eustachian Tube Diagnostic System'
 cover: './demo.png'
-external: '/discovear'
+external: '/DiscovEAR'
 tech:
   - CAD & 3D Printing
   - Rapid Prototyping
