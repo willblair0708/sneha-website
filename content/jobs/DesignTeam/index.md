@@ -1,7 +1,7 @@
 ---
 date: '2020-12-21'
 title: 'Design Team Leader'
-company: 'Whiting School of Engineering'
+company: 'Johns Hopkins Biomedical Engineering'
 location: 'Baltimore, MD'
 range: 'January 2023 - Present'
 url: 'https://engineering.jhu.edu/'
