@@ -146,17 +146,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Sneha, and I'm fervently driven by the fusion of biomedical
-              engineering and transformative healthcare solutions. My academic voyage is anchored at
-              Johns Hopkins University, where I'm exploring the intricacies of biomedical devices
-              and biodegradable implants for orthopedics. Outside the classroom, my leadership stint
-              with the MedTech Network has enriched me with hands-on experience in coordinating
-              medtech career exploration programs. Simultaneously, my involvement in Alpha Kappa Psi
-              and the Shakti Competitive Indian Classical Dance Team not only resonates with my
-              cultural and philanthropic inclinations but also amplifies my skills in team
-              collaboration and event management. The domains of research, dance, and community
+              Hello! My name is Sneha, and I'm driven by the fusion of biomedical
+              engineering and transformative healthcare solutions. At
+              Johns Hopkins University, I'm exploring the intricacies of biomedical devices
+              and biodegradable implants for orthopedics. Outside the classroom, my leadership role
+              in the MedTech Network (MTN) has enriched me with hands-on experience in coordinating
+              medtech career exploration programs. Working with industry leaders as a part of MTN and  my involvement in Alpha Kappa Psi,
+              a professional business fraternity, has solified my interest in building products that improve patient lives through innovative design. The domains of research, dance, and community
               service, through roles at prestigious institutions like Kaiser Permanente,
-              collectively sculpt my persona. Each endeavor enlightens me about the essence of
+              collectively lend me the experiences and perspectives in order to do so. Each endeavor enlightens me about the essence of
               innovation, leadership, and societal contribution.
             </p>
 
@@ -165,14 +163,9 @@ const About = () => {
               <a href="https://engineering.jhu.edu/">Johns Hopkins Whiting School of Engineering</a>
               , conducting research with the{' '}
               <a href="https://weihsgroup.jhu.edu/">Weihs Research Group</a>, and undertaking
-              internships at esteemed organizations like
+              internships at organizations like
               <a href="https://www.rm.minaris.com/en/">Minaris Regenerative Medicine</a> and{' '}
-              <a href="https://stemaway.com/">STEM-Away</a>. My primary concentration is Biomedical
-              Engineering at Johns Hopkins University, complemented by my diverse experiences in
-              corrosion research, computer-aided design, and bioinformatics. I take immense pride in
-              my roles within <a href="https://akpsi.org/">Alpha Kappa Psi</a> and the Shakti
-              Competitive Indian Classical Dance Team, which have been instrumental in shaping my
-              leadership and teamwork abilities at the university.
+              <a href="https://stemaway.com/">STEM-Away</a>. Join me as I journey towards reshaping healthcare through innovative medical technology.
             </p>
           </div>
 
