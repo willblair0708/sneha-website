@@ -152,7 +152,7 @@ const About = () => {
               and biodegradable implants for orthopedics. Outside the classroom, my leadership role
               in the MedTech Network (MTN) has enriched me with hands-on experience in coordinating
               medtech career exploration programs. Working with industry leaders as a part of MTN and  my involvement in Alpha Kappa Psi,
-              a professional business fraternity, has solified my interest in building products that improve patient lives through innovative design. The domains of research, design, and 
+              a professional business fraternity, has solified my interest in building products that improve patient lives through innovative design and entrepreneurship. The domains of research, design, and 
               service, through roles at prestigious institutions like Kaiser Permanente,
               collectively lend me the experiences and perspectives in order to do so. Each endeavor enlightens me about the essence of
               innovation, leadership, and societal contribution.
